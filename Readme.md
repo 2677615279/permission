@@ -31,7 +31,7 @@ https://www.imooc.com/article/21376
 ## 项目启动注意事项
 
 ### 数据库配置
-/resources/settings.properties
+/resources/db.properties
 ### redis配置
 /resources/redis.properties
 ### 项目登录页
